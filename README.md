@@ -7,12 +7,12 @@
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech CSE @ KIIT University (CGPA: 8.86)
-- 💻 Passionate about Full Stack Development & Problem Solving
-- 🧠 Solving DSA using LeetCode & Striver Sheet
-- 🌱 Currently learning Spring Boot & System Design
-- 🎯 Goal: Crack top tech companies & build impactful products
+##  About Me
+-  B.Tech CSE @ KIIT University (CGPA: 8.86)
+-  Passionate about Full Stack Development & Problem Solving
+-  Solving DSA using LeetCode & Striver Sheet
+-  Currently learning Spring Boot & System Design
+-  Goal: Crack top tech companies & build impactful products
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aashish2409&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=aashish2409&theme=tokyonight&hide_border=true" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 - Full Stack Development (React + Spring Boot)
 - Data Structures & Algorithms (LeetCode)
 - Backend Optimization & APIs
@@ -55,7 +55,7 @@
 
 ---
 
-## ⚡ Developer Mindset
+##  Developer Mindset
 > "Consistency beats intensity. I build, break, learn, and repeat."
 
 ---
