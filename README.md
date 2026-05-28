@@ -48,7 +48,6 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=aashish2409&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ##  Current Focus
 - Full Stack Development (React + Spring Boot)
