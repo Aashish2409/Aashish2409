@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Aashish Sagar ⚡</h1>
+<h1 align="center">Aashish Sagar</h1>
 <h3 align="center">Full Stack Developer | Java + DSA | Building Scalable Systems</h3>
 
 <p align="center">
@@ -17,9 +17,18 @@
 ---
 
 ## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,spring,mysql,git" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-000000?style=flat&logo=chainlink&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -37,14 +46,8 @@
 
 ##  GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aashish2409&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=aashish2409&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish2409&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ##  Current Focus
